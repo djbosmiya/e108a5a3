@@ -1,0 +1,10 @@
+.product-detail-section{ width: fit-content; margin: 0px 0px 29px 28px; }
+
+.go-back-button{ background-color: #2ac420; border: none; color: white; padding: 15px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 20px 0px 15px 80px; }
+.go-back-button:hover { box-shadow: 0 10px 19px rgba(0, 0, 0, -0.7), 0 13px 16px rgba(0, 0, 0, 0.22); }
+
+.product-detail-wrapper .card{font-family: monospace; border-style: none; border-radius: 10px; background-color: #d1ffdb; }
+.product-detail-wrapper .card:hover{ box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); }
+.no-active-calls{ font-size: 18px; text-align: center; }
+
+.go-back-button a{ text-decoration: none; color: #e8fee6; }

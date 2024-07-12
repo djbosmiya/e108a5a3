@@ -1,0 +1,10 @@
+p {	margin: 0; line-height: 1.6; }
+
+.call-list-item { justify-content: space-between; position: relative; counter-increment: list;max-width: 45rem; margin: 1rem auto; padding: 1rem;	box-shadow: 0.1rem 0.1rem 1.5rem rgba(0, 0, 0, 0.3); border-radius: 0.25rem;	overflow: hidden; background-color: white; }
+.call-list-item a{ text-decoration: none; color: black; }
+.call-list-item a:hover{ color: #2ac420; }
+
+.call-list-button{ background-color: #2ac420; border: none; color: white; padding: 10px 20px; font-size: 14px; border-radius: 59px; width: fit-content; height: fit-content; }
+.call-list-button:hover { box-shadow: 0 10px 19px rgba(0, 0, 0, -0.7), 0 13px 16px rgba(0, 0, 0, 0.22); }
+
+@media (min-width: 40em) { li { margin: 1rem;  }}

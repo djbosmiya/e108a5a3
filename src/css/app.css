@@ -1,0 +1,6 @@
+#app { position: relative;  display: flex;  align-items: center;  justify-content: center;  left: 0;  top: 0; right: 0;  bottom: 0; }
+#app .container {  width: 376px; height: fit-content;  z-index: 100; background: white; border-radius: 3px; box-shadow: 0 0 5px 0 rgba(0, 0, 0, .9); }
+#app .container-view { padding: 20px; }
+.react-tabs .react-tabs__tab-list .react-tabs__tab{ border-radius: 0px; color: #2ac420; border-width: 0px; font-size: 18px;}
+.react-tabs .react-tabs__tab-list .react-tabs__tab--selected{ padding: 12px; background-color: #2ac420; color: #e8fee6; }
+.react-tabs__tab-list{ border: none!important; margin: 10px 0 10px!important; }
